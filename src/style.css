@@ -1,0 +1,13 @@
+button {
+  padding-left: 10px;
+  background-color: aqua;
+  padding-right: 30px;
+  font-size: 20px;
+  padding: 10px 40px;
+  border-radius: 2px;
+}
+
+.App {
+  text-align: center;
+  font-size: 3opx;
+}
